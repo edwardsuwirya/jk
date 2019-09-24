@@ -5,4 +5,5 @@ formula = x+y
 
 print formula
 
+cetak timestamp
 panggil sourcecode1.txt
