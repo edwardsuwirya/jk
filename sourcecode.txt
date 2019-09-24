@@ -3,6 +3,8 @@ input y = 0;
 
 formula = x+y
 
-print formula
+cetak formula
 
+//Tolong buat log timestamp
+cetak timestamp
 panggil sourcecode1.txt
