@@ -4,3 +4,5 @@ input y = 0;
 formula = x+y
 
 print formula
+
+panggil sourcecode1.txt
